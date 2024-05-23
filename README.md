@@ -11,7 +11,7 @@ Streamlit: Framework Python yang digunakan untuk membuat antarmuka web yang inte
 
 Transformers: Library yang menyediakan model dan tokenizer untuk pemrosesan bahasa alami (NLP). Dalam aplikasi ini, model dan tokenizer digunakan untuk melakukan terjemahan antar bahasa.
 
-Tools yang Digunakan
+### Tools yang Digunakan
 
 Streamlit: Framework Python untuk membuat aplikasi web interaktif dengan cepat dan mudah.
 
